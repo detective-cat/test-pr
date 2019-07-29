@@ -5,9 +5,12 @@ import sys
 
 
 def hello-world():
-    print("My name is shiyi9")
+    """
+        写一些注释在这里
+    """
+    print("My name is detective-cat")
     print("Hello world!")
-    print("Hello detectice-cat")
+    print("Hello shiyi9")
 
 if __name__ == "__main__":
     hello-world()
